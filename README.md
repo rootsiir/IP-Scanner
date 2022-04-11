@@ -6,6 +6,7 @@ Discord - https://discord.gg/bgHc2QngsC
 1. Install Python 3.9+
 2. pip install requests
 3. For Errors = rootsiir#3334
+4. https://youtu.be/HRGcE5-x7YA
 
 # Social Media Acc
 Discord = rootsiir#3334
