@@ -9,4 +9,4 @@ Write the ip address and learn the information
 
 # Social Media Acc
 Discord = rootsiir#3334
-Black Poetry = https://discord.gg/bgHc2QngsC
+Black Poetry
