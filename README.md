@@ -10,3 +10,5 @@ Write the ip address and learn the information
 # Social Media Acc
 Discord = rootsiir#3334
 Black Poetry
+
+![image](https://user-images.githubusercontent.com/98325453/165835304-0f42f83a-f209-4d63-81d6-a01cd1d72bfe.png)
